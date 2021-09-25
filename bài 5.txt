@@ -1,0 +1,27 @@
+Các lệnh git đã học
+1) git init
+Tác dụng : Khởi tạo 1 dự án mới hoặc đã có.
+
+2) git status
+Tác dụng: Để check trạng thái của những file bạn đã thay đổi trong thư mục làm việc.
+
+3) git add .
+Tác dụng: khởi tại và tải lên một dự án
+
+4) git commit
+Tác dụng: khởi tạo và tải lên một dự án
+
+5) git push origin master
+Tác dụng: Để đẩy những thay đổi cục bộ lên nhánh làm việc chính
+
+6) git remote + link git
+Tác dụng: Tạo một bản sao từ nhánh từ giao tiếp với các remote khác
+
+7) git branch
+Tác dụng: Tạo một nhánh làm việc mới từ project
+
+8) git pull
+Tác dụng: Tải những thay đổi của dự án mới về máy
+
+9) git clone + link git
+Tác dụng: copy một git repository từ remote nguồn
